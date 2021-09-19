@@ -38,7 +38,9 @@ def main():
      current_time = time.strftime("%H%M%S", t)  
      current_time = int(current_time)+60000      
      print(current_time)   
-      
+     
+     #MODIFY TIME IF YOU NEED TO - 170000 means 17:00 
+     
      if current_time >= 170000:
        prihlaseni()
        Check = True 

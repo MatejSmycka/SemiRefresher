@@ -39,7 +39,7 @@ def main():
      current_time = int(current_time)+60000      
      print(current_time)   
       
-     if current_time >= 134000:
+     if current_time >= 170000:
        prihlaseni()
        Check = True 
      

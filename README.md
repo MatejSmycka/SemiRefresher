@@ -1,7 +1,8 @@
 # SemiRefresher
 
 ---
-##Installation:
+
+## Installation:
 You need your own cookies:
 1. Go to the IS website, 
 2. Hit f12 button
@@ -21,7 +22,7 @@ urls=[
 "https://is.muni.cz/auth/seminare/student?fakulta=1433;obdobi=8403;studium=1073518;predmet=1405689;prihlasit=646196;akce=podrob;provest=1;stopwindow=1;design=m"]
 
  ---
-##Usage:
+## Usage:
 
 $pip3 freeze > requirements.txt
 

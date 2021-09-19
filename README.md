@@ -26,7 +26,7 @@ urls=[
 
 $pip3 freeze > requirements.txt
 
-$python3 SemiRefresher
+$python SemiRefresher
 
 
  ---
